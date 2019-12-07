@@ -2,6 +2,7 @@
 /* Wrapper */
 #page-nav {
     width: 100%;
+    height: 100px;
     background: #000;
     /* If you want the navigation bar to stick on top
     position: sticky;
@@ -64,4 +65,12 @@
     padding: 0;
     margin: 0;
     font-family: arial, sans-serif;
+  }
+
+  footer {
+    clear: both;
+    margin-top: 50px;
+    text-align: center;
+    padding: 10px;
+    color: rgb(14, 44, 75)
   }
