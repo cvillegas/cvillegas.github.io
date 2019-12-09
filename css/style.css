@@ -125,8 +125,8 @@
     display: grid;
     background-color: #888888;
     grid-template-columns: 30% 1fr;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
     border-width: 2px;
     border: solid;
     border-radius: 8px;
@@ -140,7 +140,7 @@
   }
 
   .box2 {
-    padding: 20px;
+    padding: 15px;
     text-align: justify;
   }
 
